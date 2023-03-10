@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfLaptop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Laptop>
+    <Name>Legion</Name>
+    <Price>39999</Price>
+    <Date>2021</Date>
+    <Creator>Lenovo</Creator>
+  </Laptop>
+  <Laptop>
+    <Name>3123</Name>
+    <Price>40000</Price>
+    <Date>2021</Date>
+    <Creator>12312</Creator>
+  </Laptop>
+</ArrayOfLaptop>
